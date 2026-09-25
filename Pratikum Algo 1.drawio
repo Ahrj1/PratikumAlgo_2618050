@@ -1,0 +1,68 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="G64kfcWZgTAR32uDMgH_">
+    <mxGraphModel dx="912" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="D1eLWZ-0H856JpEM0-Hj-12" edge="1" parent="1" source="D1eLWZ-0H856JpEM0-Hj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="D1eLWZ-0H856JpEM0-Hj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1eLWZ-0H856JpEM0-Hj-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Input Luas" vertex="1">
+          <mxGeometry height="30" width="120" x="290" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="D1eLWZ-0H856JpEM0-Hj-6" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="180" as="sourcePoint" />
+            <mxPoint x="350" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1eLWZ-0H856JpEM0-Hj-9" edge="1" parent="1" source="D1eLWZ-0H856JpEM0-Hj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="D1eLWZ-0H856JpEM0-Hj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1eLWZ-0H856JpEM0-Hj-21" edge="1" parent="1" source="D1eLWZ-0H856JpEM0-Hj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="D1eLWZ-0H856JpEM0-Hj-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1eLWZ-0H856JpEM0-Hj-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Start" vertex="1">
+          <mxGeometry height="30" width="90" x="305" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="D1eLWZ-0H856JpEM0-Hj-18" edge="1" parent="1" source="D1eLWZ-0H856JpEM0-Hj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="D1eLWZ-0H856JpEM0-Hj-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1eLWZ-0H856JpEM0-Hj-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Menampilkan Hasil Luas" vertex="1">
+          <mxGeometry height="40" width="120" x="290" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="D1eLWZ-0H856JpEM0-Hj-15" edge="1" parent="1" source="D1eLWZ-0H856JpEM0-Hj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1eLWZ-0H856JpEM0-Hj-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Luas = P * L" vertex="1">
+          <mxGeometry height="30" width="120" x="290" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="D1eLWZ-0H856JpEM0-Hj-13" edge="1" parent="1" source="D1eLWZ-0H856JpEM0-Hj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="D1eLWZ-0H856JpEM0-Hj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1eLWZ-0H856JpEM0-Hj-16" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="D1eLWZ-0H856JpEM0-Hj-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1eLWZ-0H856JpEM0-Hj-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="End" vertex="1">
+          <mxGeometry height="30" width="110" x="295" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="D1eLWZ-0H856JpEM0-Hj-19" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Input Keliling" vertex="1">
+          <mxGeometry height="30" width="120" x="290" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="D1eLWZ-0H856JpEM0-Hj-20" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Luas, Keliling" vertex="1">
+          <mxGeometry height="30" width="120" x="290" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="D1eLWZ-0H856JpEM0-Hj-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Keliling = 2*(P+LO)" vertex="1">
+          <mxGeometry height="30" width="120" x="290" y="408" as="geometry" />
+        </mxCell>
+        <mxCell id="D1eLWZ-0H856JpEM0-Hj-23" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Menampilkan Hasil Keliling" vertex="1">
+          <mxGeometry height="40" width="120" x="290" y="517" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
